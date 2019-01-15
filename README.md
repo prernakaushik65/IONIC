@@ -1,2 +1,2 @@
 # IONIC
-Practical of CAP918
+This is the practical of CAP918
